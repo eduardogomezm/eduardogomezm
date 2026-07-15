@@ -1,3 +1,5 @@
+<img width="1584" height="396" alt="Banner_LinkedIn_v4 (1)" src="https://github.com/user-attachments/assets/9195a13d-5e3c-4af2-b559-94628f658a7e" />
+
 # 👋 Hi, I'm Eduardo Gómez Manzano
 
 ## QA Software Tester Junior | Manual Testing | API Testing | SQL | Jira | Postman
