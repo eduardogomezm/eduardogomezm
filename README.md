@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Eduardo Gómez Manzano
 
-## Junior Software QA Tester | Manual Testing | API Testing | SQL | Jira | Postman
+## QA Software Tester Junior | Manual Testing | API Testing | SQL | Jira | Postman
 
 Passionate about ensuring software quality through functional testing, API validation, and issue documentation. A graduate of TripleTen's Bootcamp, where I developed practical projects applying agile methodologies and industry-standard tools.
 
