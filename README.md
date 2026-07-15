@@ -79,59 +79,93 @@ I'm currently continuing to learn Test Automation with Selenium, Python, and Git
 
 ##Bootcamp Projects
 
-## 🚖 Urban Routes 1
+🚕 Project 1 – Urban Routes
 
-Web application for requesting transportation.
+This project focused on requirements analysis and test design for a transportation application. The interface and main flows were validated through manual testing.
 
-### Technologies
+Technologies
+Jira
+Figma
+Chrome DevTools
+Activities
+Requirements Analysis
+Test Case Design
+Checklist Creation
+Functional Testing
+Incident Reporting
 
-- Jira
-- DevTools
-- Figma
+📱 Project 2 – Urban Routes Web
 
-### Activities
+This project involved functional testing for a web application, validating forms, navigation, and business rules to ensure a proper user experience.
 
-- Test Case Design
-- Checklists
-- Smoke Testing
-- Regression Testing
-- Bug Reporting
-- Requirements Validation
+Technologies
+Chrome DevTools
+Jira
+Figma
+Activities
+Functional Testing
+Smoke Testing
+Regression Testing
+Exploratory Testing
+Bug Reporting
 
-## 🍔 Urban Lunch 2
+🚗 Project 3 – Urban Routes
 
-Project focused on API testing.
+This project focused on validating the trip request process through interface and functionality testing, verifying compliance with established requirements.
 
-### Tools
+Technologies
+Jira
+Chrome DevTools
+Activities
+Test Case Design
+Form Validation
+Interface Testing
+Incident Reporting
+Results Documentation
 
-- Postman
-- JSON
+🛒 Project 4 – Urban Grocers
 
-### Activities
+Test project for the API of a supermarket platform, verifying the correct functioning of the REST services and the consistency of the information.
 
-- Endpoint Validation
-- HTTP Methods
-- Parameters
-- Response Codes
-- Successful Cases
-- Unsuccessful Cases
+Technologies
+Postman
+REST API
+JSON
+SQL
+Git
+GitHub
+Activities
+API Testing
+Test Case Design
+Endpoint Validation
+SQL Queries
+Incident Reporting
+Test Documentation
 
-## 🛒 Urban Grocers 3
+🚖 Project 6 – Urban Routes (Integrative Project)
 
-Testing project for a supermarket platform.
+Final Bootcamp project where a complete quality assurance process was applied, from requirements analysis to test execution and defect documentation for a web application.
 
-### Technologies
-
-- SQL
-- Postman
-- Jira
-
-### Activities
-
-- API Testing
-- SQL Queries
-- Incident Reporting
-- Test Case Design
+Technologies
+Jira
+Postman
+Chrome DevTools
+SQL
+Git
+GitHub
+Figma
+Activities
+Requirements Analysis
+Test Case Design
+Checklist Creation
+Functional Testing
+Smoke Testing
+Regression Testing
+Exploratory Testing
+API Testing
+SQL Queries
+Incident Reporting
+Test Documentation
 
 
 ## 📂 My projects include:
