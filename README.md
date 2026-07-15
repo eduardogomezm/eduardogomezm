@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Eduardo Gómez
+# 👋 Hi, I'm Eduardo Gómez Manzano
 
 ## Junior Software QA Tester | Manual Testing | API Testing | SQL | Jira | Postman
 
