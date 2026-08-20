@@ -169,6 +169,71 @@ SQL Queries
 Incident Reporting
 Test Documentation
 
+# 🗄️ Sprint 7 – Database Fundamentals
+
+A project from the **TripleTen Software Tester Bootcamp**, focused on learning and applying the fundamentals of **databases and SQL** within the Quality Assurance process.
+
+During this project, SQL queries were executed to **extract, filter, sort, group, and analyze information** stored in various tables. Work involved using operators, aggregate functions, and different types of data relationships to obtain specific results and validate information.
+
+### 🔎 Activities Performed
+
+* Creating and executing SQL queries.
+* Retrieving information using `SELECT`.
+* Filtering records using `WHERE`.
+* Sorting and grouping results.
+* Using aggregate functions such as `COUNT`, `AVG`, `SUM`, and `MAX`.
+* Applying `DISTINCT` to avoid duplicate records.
+* Converting and handling different data types.
+* Using `JOIN` to relate information across tables.
+* Analyzing and validating data retrieved from the database.
+* Identifying and correcting errors in SQL queries.
+
+### 🛠️ Technologies
+
+* SQL
+* PostgreSQL
+* Relational databases
+* Terminal / SQL query environment
+
+### 🎯 Objective
+
+To develop **data analysis and validation skills using SQL**—essential for a Software Tester—enabling the verification of data integrity and the detection of inconsistencies directly within the database.
+
+
+# 🤖 Sprint 8 – Introduction to Automated Testing
+
+A project from the **TripleTen Software Tester Bootcamp**, focusing on the fundamentals of **test automation using Python and Pytest**.
+
+The project involved transforming manual test cases into **automated tests**, programmatically verifying the behavior of various application features. It also entailed working with HTTP requests to interact with an API and validating the resulting responses.
+
+### 🔎 Activities Performed
+
+* Setting up an automated testing environment.
+* Installing and using **Python, Pytest, and Requests**.
+* Creating automated test scripts.
+* Designing and executing test cases via code.
+* Sending HTTP requests to various endpoints.
+* Validating API response codes.
+* Verifying data and received responses.
+* Using `assert` statements to validate expected results.
+* Running tests via the terminal.
+* Identifying and analyzing errors during execution.
+* Organizing tests to facilitate maintenance and reusability.
+
+### 🛠️ Technologies
+
+* Python
+* Pytest
+* Requests
+* API Testing
+* HTTP/REST
+* Git and GitHub
+* Visual Studio Code
+
+### 🎯 Objective
+
+To build a foundation for implementing **automated tests**, thereby reducing the manual execution of repetitive tests and improving the efficiency, reliability, and speed of the QA process. This project serves as a practical introduction to **test automation with Python**—a fundamental skill for progressing toward QA Automation roles.
+
 
 ## 📂 My projects include:
 
