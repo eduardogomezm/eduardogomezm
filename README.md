@@ -230,6 +230,37 @@ The project involved transforming manual test cases into **automated tests**, pr
 * Git and GitHub
 * Visual Studio Code
 
+
+  
+
+# 🤖 Sprint9 Web Application Test Automation, Automation for Urban Routes
+
+This project is part of Sprint 9 of the TripleTen Software Testing Bootcamp. It consists of an automated End-to-End (E2E) test suite for the Urban Routes transportation web application, developed using Python, Pytest, and Selenium WebDriver.
+
+🛠️ Technologies 
+
+UsedPython 3: The core programming language used to write the automation code. It stands out for its clear syntax, making the codebase maintainable and readable. 
+
+Selenium WebDriver 4: The web automation tool that simulates user actions within the browser (clicking, typing, scrolling) and interacts directly with DOM elements.   
+
+Pytest: The Python testing framework responsible for structuring test execution, managing the browser lifecycle (setup and teardown), and evaluating expected outcomes using assertions (assert).   
+
+Chrome DevTools Protocol (CDP): An advanced protocol built into Chrome that enables browser network traffic interception. It is used to inspect performance logs and dynamically extract the SMS confirmation code without relying on third-party services.   
+
+
+🎯 Project Logic
+
+Page Object Model (POM) Architecture: 
+
+Separates test case logic from the site's UI elements. This prevents code duplication and keeps the framework scalable.   
+
+Asynchronous Synchronization: Implements explicit dynamic waits (WebDriverWait) that wait for elements to become visible or interactive before executing actions, preventing failures caused by page load delays.   
+
+Integrated E2E Flow: Tests sequentially execute address selection, tariff plan choice, SMS authentication, payment card linking, adding extra services, and order confirmation through to verifying driver assignment. 
+
+
+
+
 ### 🎯 Objective
 
 To build a foundation for implementing **automated tests**, thereby reducing the manual execution of repetitive tests and improving the efficiency, reliability, and speed of the QA process. This project serves as a practical introduction to **test automation with Python**—a fundamental skill for progressing toward QA Automation roles.
