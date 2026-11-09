@@ -259,6 +259,9 @@ Asynchronous Synchronization: Implements explicit dynamic waits (WebDriverWait) 
 Integrated E2E Flow: Tests sequentially execute address selection, tariff plan choice, SMS authentication, payment card linking, adding extra services, and order confirmation through to verifying driver assignment. 
 
 
+Certificates 🏆
+BootCamp QA Engineer. Tripleten
+https://drive.google.com/file/d/1V6dqk55tposhPCyiPFrcSxMkz1QLHd-s/view?usp=sharing
 
 
 ### 🎯 Objective
