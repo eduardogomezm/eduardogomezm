@@ -265,8 +265,7 @@ Integrated E2E Flow: Tests sequentially execute address selection, tariff plan c
 
 
 
-
-Certificates 🏆
+🏆 Certificates
 
 BootCamp QA Engineer. Tripleten
 
