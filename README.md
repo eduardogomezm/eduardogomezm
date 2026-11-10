@@ -263,15 +263,6 @@ Integrated E2E Flow: Tests sequentially execute address selection, tariff plan c
 
 
 
-
-
-🏆 Certificates
-
-BootCamp QA Engineer. Tripleten
-
-https://drive.google.com/file/d/1V6dqk55tposhPCyiPFrcSxMkz1QLHd-s/view?usp=sharing
-
-
 ### 🎯 Objective
 
 To build a foundation for implementing **automated tests**, thereby reducing the manual execution of repetitive tests and improving the efficiency, reliability, and speed of the QA process. This project serves as a practical introduction to **test automation with Python**—a fundamental skill for progressing toward QA Automation roles.
@@ -307,6 +298,13 @@ www.linkedin.com/in/oeduardogm
 
 📧 Email:
 oe.gomez.m@proton.me
+
+
+🏆 Certificates
+
+BootCamp QA Engineer. Tripleten
+
+https://drive.google.com/file/d/1V6dqk55tposhPCyiPFrcSxMkz1QLHd-s/view?usp=sharing
 
 ## Hi there 👋
 
